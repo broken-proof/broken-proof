@@ -1,7 +1,5 @@
 <h1 align="center">Hey there! I'm Shivam:)</h1>
 <h3 align="center">A highschooler intrested in building cool things related to math, business and cs.</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
